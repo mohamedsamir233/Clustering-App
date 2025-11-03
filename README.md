@@ -3,7 +3,8 @@
 
 > It helps users understand their dataset better, discover hidden patterns, and analyze feature relationships efficiently.
 
----
-> pip install -r requirements.txt
+## Important
 
-> streamlit run app.py
+- pip install -r requirements.txt
+- streamlit run app.py
+- Upload Excel Sheet or csv File .
