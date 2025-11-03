@@ -3,7 +3,7 @@
 
 > It helps users understand their dataset better, discover hidden patterns, and analyze feature relationships efficiently.
 
-## Steps
+---
 > pip install -r requirements.txt
 
 > streamlit run app.py
